@@ -1,0 +1,5 @@
+All the chapters in this book have codes.
+
+The codes are named in the format 1.1, 1.2, 2.3, and so on. And the same references are given throughout the book by the author, to guide the readers to the correct code files in the code bundle.
+
+Also, the author has given "read me" files along with the code file of each chapter, which includes the list of programs covered in that particular chapter.
