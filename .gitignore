@@ -5,6 +5,8 @@ __pycache__/
 
 # C extensions
 *.so
+#temp files
+~.lock*
 
 # Distribution / packaging
 .Python
